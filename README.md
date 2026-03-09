@@ -53,7 +53,7 @@ laundry-app-flutter
 # 🖥 Admin Panel Screenshots
 
 <p align="center">
-<img src="screenshots/admin/dashboard.png" width="220"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.54 PM.jpeg"/>
 <img src="screenshots/admin/admin_orders.png" width="220"/>
 <img src="screenshots/admin/users.png" width="220"/>
 <img src="screenshots/admin/analytics.png" width="220"/>
