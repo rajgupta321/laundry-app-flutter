@@ -42,7 +42,7 @@ laundry-app-flutter
 # 📱 User App Screenshots
 
 <p align="center">
-<img src="screenshots/user/home.png" width="220"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.12 PM (1)" width="220"/>
 <img src="screenshots/user/orders.png" width="220"/>
 <img src="screenshots/user/chat.png" width="220"/>
 <img src="screenshots/user/profile.png" width="220"/>
