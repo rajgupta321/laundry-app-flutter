@@ -1,30 +1,31 @@
-# 🧺 Flutter Laundry Service App
+# 🧺 Laundry Service App
 
-A complete **Laundry Service Application** built using **Flutter + Firebase**.
+A complete **Laundry Service Mobile Application** built with **Flutter** and **Firebase**.
+The project includes both a **User Mobile App** and an **Admin Dashboard** to manage laundry services, orders, users, and notifications in real time.
 
-This project includes a **User Mobile App** and an **Admin Dashboard** for managing laundry orders in real time.
+This project demonstrates **authentication, real-time database usage, chat system, and admin management features** with a clean and scalable architecture.
 
 ---
 
-# 🚀 Features
+# ✨ Features
 
-## 👤 User App
+## 👤 User Mobile App
 
-• User Authentication (Login / Signup)
-• Place Laundry Orders
-• Track Order Status
-• Real-time Updates
-• Chat Support with Admin
-• Push Notifications
+* 🔐 Authentication – Secure Login & Signup
+* 🧺 Place Laundry Orders – Select services and create orders
+* 📦 Order Tracking – Real-time order status updates
+* 💬 Chat with Admin – Direct messaging support
+* 🔔 Push Notifications – Order updates & alerts
+* 👤 User Profile – Manage account details
 
-## 🛠 Admin Panel
+## 🛠 Admin Dashboard
 
-• Admin Login
-• Dashboard Overview
-• Manage Orders
-• Update Order Status
-• View Users
-• Chat with Customers
+* 🔐 Admin Authentication
+* 📊 Dashboard Overview
+* 📦 Manage Orders
+* 👥 User Management
+* 💬 Chat with Customers
+* 🔔 Send Notifications
 
 ---
 
@@ -32,38 +33,57 @@ This project includes a **User Mobile App** and an **Admin Dashboard** for manag
 
 laundry-app-flutter
 │
-├── laundry_app        # User Mobile App
-├── laundry_admin      # Admin Dashboard
-├── apk                # APK files
+├── laundry_app        # User Mobile Application
+├── laundry_admin      # Admin Dashboard (Flutter Web)
+├── apk                # Installable APK files
 └── screenshots        # App Screenshots
 
 ---
 
-# 📱 User App Screenshots
+# 🖼 Screenshots
+
+## 📱 User App
 
 <p align="center">
-<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.12 PM (1)" width="220"/>
-<img src="screenshots/user/orders.png" width="220"/>
-<img src="screenshots/user/chat.png" width="220"/>
-<img src="screenshots/user/profile.png" width="220"/>
+
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.12 PM.jpeg" width="220"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.12 PM (1).jpeg" width="220"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.13 PM.jpeg" width="220"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.13 PM (1).jpeg" width="220"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.14 PM.jpeg" width="220"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.14 PM (1).jpeg" width="220"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.14 PM (2).jpeg" width="220"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.15 PM.jpeg" width="220"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.15 PM (1).jpeg" width="220"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.15 PM (2).jpeg" width="220"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.16 PM.jpeg" width="220"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.16 PM (1).jpeg" width="220"/>
+
 </p>
 
 ---
 
-# 🖥 Admin Panel Screenshots
+## 🖥 Admin Dashboard
 
 <p align="center">
-<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.54 PM.jpeg"/>
-<img src="screenshots/admin/admin_orders.png" width="220"/>
-<img src="screenshots/admin/users.png" width="220"/>
-<img src="screenshots/admin/analytics.png" width="220"/>
+
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.54 PM.jpeg" width="220"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.55 PM.jpeg" width="220"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.55 PM (1).jpeg" width="220"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.55 PM (2).jpeg" width="220"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.56 PM.jpeg" width="220"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.56 PM (1).jpeg" width="220"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.56 PM (2).jpeg" width="220"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.57 PM.jpeg" width="220"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.57 PM (1).jpeg" width="220"/>
+
 </p>
 
 ---
 
-# 📦 Download APK
+# 📦 APK Download
 
-You can install the application using the APK files in the **apk** folder.
+You can directly install the applications from the **apk** folder.
 
 User App
 apk/User.apk
@@ -73,17 +93,16 @@ apk/Admin.apk
 
 ---
 
-# ⚙️ Tech Stack
+# 🛠 Tech Stack
 
-• Flutter
-• Dart
-• Firebase Authentication
-• Cloud Firestore
-• Firebase Cloud Messaging
+* Flutter (Dart)
+* Firebase Authentication
+* Cloud Firestore
+* Firebase Cloud Messaging
 
 ---
 
-# 🛠 Installation
+# 🚀 Installation & Setup
 
 Clone the repository
 
@@ -105,7 +124,7 @@ flutter run
 
 # 📌 Notes
 
-Firebase configuration files are excluded from this repository for security reasons.
+Firebase configuration files are **excluded** from this repository for security reasons.
 
 ---
 
@@ -113,3 +132,5 @@ Firebase configuration files are excluded from this repository for security reas
 
 Raj Gupta
 Flutter Developer
+
+GitHub: https://github.com/rajgupta321
