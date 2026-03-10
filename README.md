@@ -31,51 +31,54 @@ This project demonstrates **authentication, real-time database usage, chat syste
 
 # 🧱 Project Structure
 
+```
 laundry-app-flutter
 │
 ├── laundry_app        # User Mobile Application
 ├── laundry_admin      # Admin Dashboard (Flutter Web)
 ├── apk                # Installable APK files
 └── screenshots        # App Screenshots
+```
 
 ---
 
-# 🖼 Screenshots
-
-## 📱 User App
+# 📱 User App Screenshots
 
 <p align="center">
 
-<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.12 PM.jpeg" width="220"/>
-<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.12 PM (1).jpeg" width="220"/>
-<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.13 PM.jpeg" width="220"/>
-<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.13 PM (1).jpeg" width="220"/>
-<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.14 PM.jpeg" width="220"/>
-<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.14 PM (1).jpeg" width="220"/>
-<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.14 PM (2).jpeg" width="220"/>
-<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.15 PM.jpeg" width="220"/>
-<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.15 PM (1).jpeg" width="220"/>
-<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.15 PM (2).jpeg" width="220"/>
-<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.16 PM.jpeg" width="220"/>
-<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.16 PM (1).jpeg" width="220"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.16 PM (1).jpeg" width="160"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.12 PM (1).jpeg" width="160"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.12 PM.jpeg" width="160"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.16 PM.jpeg" width="160"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.15 PM (2).jpeg" width="160"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.15 PM (1).jpeg" width="160"/>
+
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.15 PM.jpeg" width="160"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.14 PM (2).jpeg" width="160"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.14 PM (1).jpeg" width="160"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.13 PM.jpeg" width="160"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.14 PM.jpeg" width="160"/>
+<img src="screenshots/user/WhatsApp Image 2026-03-09 at 3.47.13 PM (1).jpeg" width="160"/>
 
 </p>
 
 ---
 
-## 🖥 Admin Dashboard
+# 🖥 Admin Panel Screenshots
 
 <p align="center">
 
-<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.54 PM.jpeg" width="220"/>
-<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.55 PM.jpeg" width="220"/>
-<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.55 PM (1).jpeg" width="220"/>
-<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.55 PM (2).jpeg" width="220"/>
-<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.56 PM.jpeg" width="220"/>
-<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.56 PM (1).jpeg" width="220"/>
-<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.56 PM (2).jpeg" width="220"/>
-<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.57 PM.jpeg" width="220"/>
-<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.57 PM (1).jpeg" width="220"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.54 PM.jpeg" width="160"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.55 PM.jpeg" width="160"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.55 PM (1).jpeg" width="160"/>
+
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.55 PM (2).jpeg" width="160"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.56 PM.jpeg" width="160"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.56 PM (1).jpeg" width="160"/>
+
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.56 PM (2).jpeg" width="160"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.57 PM.jpeg" width="160"/>
+<img src="screenshots/admin/WhatsApp Image 2026-03-09 at 3.47.57 PM (1).jpeg" width="160"/>
 
 </p>
 
